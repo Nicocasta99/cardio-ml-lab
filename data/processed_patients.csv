@@ -1,0 +1,6 @@
+patient_id,age,sex,systolic_bp,choresterol,event,high_bp,age_band,glucose,glucose_adj
+5,45,M,127.5,240,0,False,middle,130,147.1697408250678
+4,40,F,135.0,230,1,True,middle,88,105.1697408250678
+3,35,M,125.0,210,0,False,younger,100,117.1697408250678
+2,30,F,130.0,220,1,True,younger,110,127.1697408250678
+1,25,M,120.0,200,0,False,younger,90,107.1697408250678
